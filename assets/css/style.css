@@ -10,11 +10,34 @@
 	
 }
 
+ul{
+
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0D2C39;
+    text-align: center;
+    width: 410px;
+    margin: 0 auto;
+    text-align: center;
+}
+li{
+	float: left;
+}
+
+a {
+	display: block;
+    padding: 8px;
+    font-size: 20px;
+    color: White;
+}
 .menu{
 	height: 100px;
 	background-color: #8E5349;
 	text-align: center;
 	padding-top: 20px;
+	text-align: center;
 }
 
 
